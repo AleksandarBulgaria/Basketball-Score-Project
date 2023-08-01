@@ -20,3 +20,16 @@ function HomeAddThree(){
     HomeCount += AddThree
     HomeScoreEl.textContent = HomeCount
 }
+
+function GuestAddOne(){ 
+    GuestCount += AddOne
+    GuestScoreEl.textContent = GuestCount
+}
+function GuestAddOTwo(){ 
+    GuestCount += AddTwo
+    GuestScoreEl.textContent = GuestCount
+}
+function GuestAddThree(){ 
+    GuestCount += AddThree
+    GuestScoreEl.textContent = GuestCount
+}
