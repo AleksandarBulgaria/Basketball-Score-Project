@@ -1,5 +1,7 @@
 body { 
+    background-color: darkslategray;
     margin: 0; 
+    text-emphasis-color: white;
 } 
 
 .container { 
