@@ -30,3 +30,17 @@ h4 {
     color: orangered;
 }
 
+button {
+    /* Set the width and height of the button */
+    width: 300px;
+    height: 100px;
+    /* Add some padding to provide space around the button text */
+    padding: 30px;
+    /* Increase the font size to make the text larger */
+    font-size: 32px;
+    border: white;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
