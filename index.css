@@ -10,7 +10,9 @@ body {
 }
 
 h3 {
-    color: aliceblue;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-weight: bold;
+    color: whitesmoke;
 }
 
 h4 {
