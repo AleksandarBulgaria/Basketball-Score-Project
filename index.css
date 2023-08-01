@@ -18,7 +18,7 @@ h3 {
   font-family: sans-serif;
   /* Set the font weight to bold */
   font-weight: bold;
-  font-size: 80px;
+  font-size: 65px;
   color: white;
 }
 
@@ -26,12 +26,13 @@ h4 {
     font-family: sans-serif;
     /* Set the font weight to bold */
     font-weight: bold;
-    font-size: 80px;
+    font-size: 65px;
     color: orangered;
 }
 
 .button {
     background-color: #0C2D48;
+    font-size: 65px;
     border: white;
     color: white;
     padding: 15px 32px;
