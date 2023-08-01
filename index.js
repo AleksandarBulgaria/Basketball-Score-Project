@@ -12,3 +12,11 @@ function HomeAddOne(){
     HomeCount += AddOne
     HomeScoreEl.textContent = HomeCount
 }
+function HomeAddOTwo(){ 
+    HomeCount += AddTwo
+    HomeScoreEl.textContent = HomeCount
+}
+function HomeAddThree(){ 
+    HomeCount += AddThree
+    HomeScoreEl.textContent = HomeCount
+}
