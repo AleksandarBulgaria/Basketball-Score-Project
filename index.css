@@ -33,14 +33,13 @@ h4 {
 }
 
 button {
-    align-self: center;
     border: 1px solid white;
     background-color: #0C2D48;
     padding-top: 10px;
     padding-bottom: 10px;
     color: white;
     font-weight: bold;
-    width: 25%;
+    width: 50px;
     margin-bottom: 5px;
     border-radius: 5px;
 }
