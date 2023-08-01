@@ -33,6 +33,7 @@ h4 {
 }
 
 button {
+    align-self: center;
     border: 1px solid white;
     background-color: #0C2D48;
     padding-top: 10px;
