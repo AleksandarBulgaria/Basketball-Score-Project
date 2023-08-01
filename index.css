@@ -18,18 +18,20 @@ h3 {
   font-family: sans-serif;
   /* Set the font weight to bold */
   font-weight: bold;
-  font-size: 65px;
+  font-size: 50px;
   color: white;
 }
 
 h4 {
     border: 1px solid white;
-    background-color: #0C2D48;
+    background-color: black;
+    color: orangered;
     font-family: sans-serif;
+    text-align: center;
     /* Set the font weight to bold */
     font-weight: bold;
-    font-size: 65px;
-    color: orangered;
+    font-size: 50px;
+
 }
 
 button {
