@@ -1,10 +1,10 @@
 body { 
-    background-color: darkslategray;
+    background-color: #0C2D48;
     margin: 0; 
-    text-emphasis-color: white;
 } 
 
 .container { 
     display: flex; 
     justify-content: space-around; 
+    text-emphasis-color: white;
 }

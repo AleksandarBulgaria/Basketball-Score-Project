@@ -6,6 +6,6 @@ let GuestScoreEl = document.getElementById("Guest-Score")
 
 function HomeAddOne(){ 
     HomeAddOneEl = 1
-    HomeScoreEl.textContent = 0
-    HomeScoreEl.textContent += HomeAddOneEl
+    HomeScoreEl.innerText = 0
+    HomeScoreEl.innerText += HomeAddOneEl
 }
