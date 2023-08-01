@@ -12,7 +12,7 @@ function HomeAddOne(){
     HomeCount += AddOne
     HomeScoreEl.textContent = HomeCount
 }
-function HomeAddOTwo(){ 
+function HomeAddTwo(){ 
     HomeCount += AddTwo
     HomeScoreEl.textContent = HomeCount
 }
@@ -25,7 +25,7 @@ function GuestAddOne(){
     GuestCount += AddOne
     GuestScoreEl.textContent = GuestCount
 }
-function GuestAddOTwo(){ 
+function GuestAddTwo(){ 
     GuestCount += AddTwo
     GuestScoreEl.textContent = GuestCount
 }
