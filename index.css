@@ -8,3 +8,15 @@ body {
     justify-content: space-around; 
     text-emphasis-color: white;
 }
+
+h3 {
+    color: aliceblue;
+}
+
+h4 {
+    color: aliceblue;
+}
+
+button {
+    color: aliceblue;
+}
