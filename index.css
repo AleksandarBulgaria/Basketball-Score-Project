@@ -23,6 +23,8 @@ h3 {
 }
 
 h4 {
+    border: 1px solid white;
+    background-color: #0C2D48;
     font-family: sans-serif;
     /* Set the font weight to bold */
     font-weight: bold;
